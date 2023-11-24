@@ -1,0 +1,9 @@
+body{
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: local;
+color: white;
+}
+h1,h2,h3{
+color: yellow;
+}
